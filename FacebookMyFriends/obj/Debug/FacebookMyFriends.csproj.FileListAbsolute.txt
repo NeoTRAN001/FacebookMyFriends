@@ -1,0 +1,13 @@
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\bin\Debug\FacebookMyFriends.exe.config
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\bin\Debug\FacebookMyFriends.exe
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\bin\Debug\FacebookMyFriends.pdb
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.csprojAssemblyReference.cache
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Properties.Resources.resources
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.csproj.GenerateResource.cache
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.exe
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.pdb
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Form1.resources
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Token.resources
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Info.resources
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Settings.resources
+C:\Users\NeoTRAN\source\repos\FacebookMyFriends\FacebookMyFriends\obj\Debug\FacebookMyFriends.Search.resources
